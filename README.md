@@ -30,9 +30,9 @@ Support me by sending a donation via:
 5. If you choose incorrectly, you'll be accused of being a corrupt authority and jailed.
 
 ## Installation:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/garrynicholas/the-judgective.git
+1. Download the main.py or copy them
+2. Place them into your main.py
+3. Run the code 
 
 ## Contributing
 
