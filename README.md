@@ -1,6 +1,9 @@
 # The Judgective
 
-**The Judgective** is a simple Python game for beginners. It's a text-based game where you have to choose a suspect by collecting only three pieces of information: Occupation, Backstory, and Clue. If you fail to identify the right suspect, you get accused of being a corrupt authority and go to jail for several years.
+This project is a simple Python game for beginners called **The Judgective**. It's a text-based game where you choose a suspect in the murder of the president of Ventarnia by collecting 3 pieces of information: Occupation, Backstory, and Clue. Fail to get the right suspect, and you'll be jailed for corruption.
+
+## READ THIS
+ALL OF THE CHARACTERS NAME, CITY, COUNTRY, EVENT, ARE NOT REAL AND FICTIONAL.
 
 ## Developed by:
 Twizzyson Engine
