@@ -32,7 +32,7 @@ Support me by sending a donation via:
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/the-judgective.git
+   git clone https://github.com/garrynicholas/the-judgective.git
 
 ## Contributing
 
