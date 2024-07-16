@@ -9,7 +9,7 @@ Youtube: Twizzyson
 
 Support me by sending me a drink in:
 Kofi (USD Currency): https://ko-fi.com/twizzyson_engine
-Trakteer (IDR Currency): teer.id/twizzyson_engine
+Trakteer (IDR Currency): https://teer.id/twizzyson_engine
 '''
 
 import random
